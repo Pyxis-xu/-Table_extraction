@@ -20,5 +20,8 @@ import numpy as np
 import xlsxwriter
 import pytesseract
 ```
+## Attention
+The crop folder needs to be cleared every time a table extraction is performed on an image.
+
 ## Unresolved Issues
 Inaccurate text recognition in some cells.
